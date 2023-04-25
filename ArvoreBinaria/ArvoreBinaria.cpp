@@ -151,7 +151,6 @@ int elementosArvore(NO* no)
 }
 
 void exibirElementosArvore(NO* no)
-	cout << ""lista vazia / m"\n;
 {
 	if (no == NULL) {
 		return
